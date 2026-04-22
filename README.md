@@ -1,3 +1,7 @@
+The script only processes data in a very spcific way to use it for bayesynergy
+- https://github.com/ocbe-uio/bayesynergy.git
+- https://doi.org/10.1093/bib/bbab251
+
 For the script to work different requirements need to match
 - All inputs need to be csv-files
 - only include the raw data and header, remove other all other things! 

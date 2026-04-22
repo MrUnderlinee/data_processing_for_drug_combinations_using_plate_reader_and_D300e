@@ -1,4 +1,4 @@
-The script only processes data in a very spcific way to use it for bayesynergy:
+The script only processes data in a very spcific way to then use it for bayesynergy:
 - https://github.com/ocbe-uio/bayesynergy.git
 - https://doi.org/10.1093/bib/bbab251
 

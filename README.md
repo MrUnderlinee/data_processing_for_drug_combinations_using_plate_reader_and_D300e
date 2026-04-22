@@ -30,7 +30,7 @@ Aside that the script is customziable:
 - FILE_DISPENSER    -> Name of the dispenser file
 - FILE_OUTPUT       -> Name of processed data as a list
 - PDF_FILE_OUTPUT   -> Name of the pdf file with all graphics
-- RSCRIPT_PATH      -> Own pathway where Rscripts are stored!
+- RSCRIPT_PATH      -> Change to your own pathway, where your Rscripts are stored!
 
 - POSITIVE_CONTROLS -> Name of positive control        
 - NEGATIVE_CONTROLS -> Name of negative contr    
